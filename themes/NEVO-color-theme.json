@@ -409,7 +409,8 @@
       "name": "accessor",
       "scope": ["punctuation.accessor"],
       "settings": {
-        "foreground": "#facc15"
+        "foreground": "#00FFB3",
+        "fontStyle": "bold"
       }
     },
     {
@@ -951,7 +952,6 @@
         "keyword.other.substitution",
         "storage.type.function.arrow",
         "constant.other.color",
-        "punctuation.accessor",
         "entity.name.section",
         "markdown.heading",
         "markup.inline.raw punctuation.definition.raw",

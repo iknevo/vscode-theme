@@ -65,7 +65,7 @@
     "statusBarItem.prominentBackground": "#003847",
     "statusBarItem.prominentHoverBackground": "#003847",
     "activityBar.background": "#003847",
-    "sideBar.background": "#00212b",
+    "sideBar.background": "#002b37",
     "sideBarTitle.foreground": "#93a1a1",
     "titleBar.activeBackground": "#002c39",
     "terminal.foreground": "#839496",
@@ -111,7 +111,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "bold",
         "foreground": "#657B83"
       }
     },
@@ -133,7 +133,7 @@
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#D33682"
+        "foreground": "#00FFB3"
       }
     },
     {
