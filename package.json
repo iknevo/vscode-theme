@@ -57,7 +57,22 @@
       {
         "label": "NEVO 3MK",
         "uiTheme": "vs-dark",
-        "path": "./themes/NEVO-OL.json"
+        "path": "./themes/NEVO-3mk.json"
+      },
+      {
+        "label": "NEVO TM",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NEVO-TM.json"
+      },
+      {
+        "label": "NEVO black & gold",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NEVO-black-gold.json"
+      },
+      {
+        "label": "NEVO special",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NEVO-special.json"
       }
     ]
   }
