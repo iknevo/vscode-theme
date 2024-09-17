@@ -3,7 +3,7 @@
   "displayName": "NEVO",
   "description": "my boomta5 theme",
   "icon": "icon/image.png",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "nevo",
   "keywords": [
     "nevo",
@@ -13,9 +13,9 @@
     "nev"
   ],
   "repository": {
-		"type": "git",
-		"url": "https://github.com/idknevo/vscode-theme.git"
-	},
+    "type": "git",
+    "url": "https://github.com/idknevo/vscode-theme.git"
+  },
   "engines": {
     "vscode": "^1.93.0"
   },
