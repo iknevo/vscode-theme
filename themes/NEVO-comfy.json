@@ -465,7 +465,7 @@
     {
       "scope": "support.constant.property-value.scss,support.constant.property-value.css",
       "settings": {
-        "foreground": "#FF4AAE"
+        "foreground": "#FF8F40"
       }
     },
     {
@@ -764,7 +764,7 @@
     {
       "scope": "storage.type",
       "settings": {
-        "foreground": "#F764D7"
+        "foreground": "#FF8F40"
       }
     },
     {
