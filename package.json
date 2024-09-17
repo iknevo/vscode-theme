@@ -1,0 +1,64 @@
+{
+  "name": "nevo-theme",
+  "displayName": "NEVO",
+  "description": "my boomta5 theme",
+  "icon": "icon/image.png",
+  "version": "0.0.1",
+  "publisher": "nevo",
+  "keywords": [
+    "nevo",
+    "theme",
+    "dark",
+    "dark theme",
+    "nev"
+  ],
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/idknevo/vscode-theme.git"
+	},
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NEVO",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NEVO-color-theme.json"
+      },
+      {
+        "label": "NEVO pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NEVO-pro.json"
+      },
+      {
+        "label": "NEVO pro green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NEVO-pro-green.json"
+      },
+      {
+        "label": "NEVO dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NEVO-dark.json"
+      },
+      {
+        "label": "NEVO dark blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NEVO-dark-blue.json"
+      },
+      {
+        "label": "NEVO comfy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NEVO-comfy.json"
+      },
+      {
+        "label": "NEVO OL",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NEVO-OL.json"
+      }
+    ]
+  }
+}
