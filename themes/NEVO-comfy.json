@@ -222,7 +222,7 @@
     "symbolIcon.objectForeground": "#d3869b",
     "symbolIcon.packageForeground": "#d3869b",
     "editor.background": "#1d2021",
-    "editor.foreground": "#e181ff"
+    "editor.foreground": "#85EFFFFF"
   },
   "tokenColors": [
     {
@@ -794,7 +794,7 @@
     {
       "scope": ["variable.other"],
       "settings": {
-        "foreground": "#FF7B7B"
+        "foreground": "#85EFFFE0"
       }
     },
     {
