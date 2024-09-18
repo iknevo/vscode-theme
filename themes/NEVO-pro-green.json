@@ -492,6 +492,15 @@
       }
     },
     {
+			"name": "pseudo",
+			"scope": [
+				"entity.other.attribute-name.pseudo-element.css"
+			],
+			"settings": {
+				"foreground": "#39BAE6"
+			}
+		},
+    {
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "source.go storage.type"],
       "settings": {

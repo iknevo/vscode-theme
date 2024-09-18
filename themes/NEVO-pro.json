@@ -541,6 +541,15 @@
 			}
 		},
 		{
+			"name": "pseudo",
+			"scope": [
+				"entity.other.attribute-name.pseudo-element.css"
+			],
+			"settings": {
+				"foreground": "#39BAE6"
+			}
+		},
+		{
 			"name": "Library constant",
 			"scope": [
 				"support.constant"
