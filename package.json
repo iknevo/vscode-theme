@@ -55,6 +55,11 @@
         "path": "./themes/NEVO-comfy.json"
       },
       {
+        "label": "NEVO comfy 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NEVO-comfy-2.json"
+      },
+      {
         "label": "NEVO 3MK",
         "uiTheme": "vs-dark",
         "path": "./themes/NEVO-3mk.json"
