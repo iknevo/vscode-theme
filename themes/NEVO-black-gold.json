@@ -1032,7 +1032,7 @@
     },
     {
       "scope": ["keyword.other.unit"],
-      "settings": { "foreground": "#d4770c" }
+      "settings": { "foreground": "#ff5900" }
     },
     {
       "scope": [
@@ -1043,7 +1043,7 @@
       ],
       "settings": { "foreground": "#d4770c" }
     },
-    { "scope": ["constant.numeric"], "settings": { "foreground": "#d4770c" } },
+    { "scope": ["constant.numeric"], "settings": { "foreground": "#38C7BD" } },
     {
       "scope": [
         "entity.name.tag.css",

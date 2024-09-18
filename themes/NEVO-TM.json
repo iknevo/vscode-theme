@@ -131,13 +131,19 @@
 				"constant.character",
 				"constant.escape",
 				"variable.parameter",
-				"keyword.other.unit",
 				"keyword.other"
 			],
 			"settings": {
 				"foreground": "#F78C6C"
 			}
 		},
+		{
+      "name": "unit",
+      "scope": ["keyword.other.unit"],
+      "settings": {
+        "foreground": "#99e9f2"
+      }
+    },
 		{
 			"name": "String, Symbols, Inherited Class, Markup Heading",
 			"scope": [

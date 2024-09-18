@@ -27,7 +27,7 @@
       {
         "label": "NEVO",
         "uiTheme": "vs-dark",
-        "path": "./themes/NEVO-color-theme.json"
+        "path": "./themes/NEVO.json"
       },
       {
         "label": "NEVO pro",
