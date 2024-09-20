@@ -535,6 +535,7 @@
 			"name": "Tag attribute",
 			"scope": [
 				"entity.other.attribute-name"
+				
 			],
 			"settings": {
 				"foreground": "#fb8c00"
@@ -543,7 +544,8 @@
 		{
 			"name": "pseudo",
 			"scope": [
-				"entity.other.attribute-name.pseudo-element.css"
+				"entity.other.attribute-name.pseudo-element.css",
+				"entity.other.attribute-name.pseudo-class.css"
 			],
 			"settings": {
 				"foreground": "#39BAE6"
