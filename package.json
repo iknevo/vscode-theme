@@ -12,6 +12,11 @@
     "dark theme",
     "nev"
   ],
+  "scripts": {
+    "publish:patch": "vsce publish patch",
+    "publish:minor": "vsce publish minor",
+    "publish:major": "vsce publish major"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/idknevo/vscode-theme.git"
