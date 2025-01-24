@@ -643,7 +643,8 @@
         "constant.character.literal.scala",
         "source.tf entity.name",
         "variable.other.object.property",
-        "variable.other.property"
+        "variable.other.property",
+        "keyword.operator.logical"
       ],
       "settings": {
         "foreground": "#49e9a6"
