@@ -563,7 +563,9 @@
         "source.vue entity.other.attribute-name",
         "entity.other.attribute-name.mjml",
         "source.vue meta.directive punctuation.separator.key-value",
-        "meta.definition.attribute-entry punctuation.separator"
+        "meta.definition.attribute-entry punctuation.separator",
+        "constant.other.object.key.js",
+        "string.unquoted.js"
       ],
       "settings": {
         "foreground": "#d5971a"
