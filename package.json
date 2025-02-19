@@ -83,6 +83,11 @@
         "label": "NEVO spirit",
         "uiTheme": "vs-dark",
         "path": "./themes/NEVO-spirit.json"
+      },
+      {
+        "label": "NEVO night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NEVO-night.json"
       }
     ]
   }
