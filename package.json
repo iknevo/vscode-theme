@@ -98,6 +98,11 @@
         "label": "NEVO black",
         "uiTheme": "vs-dark",
         "path": "./themes/NEVO-black.json"
+      },
+      {
+        "label": "NEVO violet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NEVO-violet.json"
       }
     ]
   }
