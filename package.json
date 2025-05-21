@@ -35,6 +35,11 @@
         "path": "./themes/NEVO.json"
       },
       {
+        "label": "NEVO clean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NEVO-clean.json"
+      },
+      {
         "label": "NEVO pro",
         "uiTheme": "vs-dark",
         "path": "./themes/NEVO-pro.json"
