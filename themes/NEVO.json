@@ -648,8 +648,7 @@
         "keyword.operator.logical"
       ],
       "settings": {
-        "foreground": "#C3E88D",
-        "fontStyle": "italic"
+        "foreground": "#C3E88D"
       }
     },
     {
