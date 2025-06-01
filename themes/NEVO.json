@@ -294,7 +294,8 @@
         "punctuation.definition.strikethrough.markdown"
       ],
       "settings": {
-        "foreground": "#5b858b"
+        "foreground": "#5b858b",
+        "fontStyle": "italic"
       }
     },
     {
@@ -647,7 +648,8 @@
         "keyword.operator.logical"
       ],
       "settings": {
-        "foreground": "#0cc"
+        "foreground": "#C3E88D",
+        "fontStyle": "italic"
       }
     },
     {
