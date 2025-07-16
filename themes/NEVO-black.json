@@ -102,7 +102,7 @@
     "inputValidation.warningBorder": "#a88457",
     "editorWidget.background": "#000000",
     "editorWidget.border": "#000",
-    "editorHoverWidget.background": "#a5b5b520",
+    "editorHoverWidget.background": "#000000",
     "editorHoverWidget.border": "#000",
     "editorSuggestWidget.background": "#000000",
     "editorSuggestWidget.border": "#000",
