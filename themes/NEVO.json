@@ -103,7 +103,7 @@
     "editorWidget.background": "#021012",
     "editorWidget.border": "#0f1415",
     "editorHoverWidget.background": "#021012",
-    "editorHoverWidget.border": "#0f1415",
+    "editorHoverWidget.border": "#a5b5b540",
     "editorSuggestWidget.background": "#021012",
     "editorSuggestWidget.border": "#a5b5b540",
     "editorSuggestWidget.foreground": "#87a7ab",
