@@ -720,10 +720,12 @@
         "support.variable.class.function",
         "keyword.control.cucumber.table",
         "punctuation.decorator",
-        "source.tf support.class"
+        "source.tf support.class",
+        "keyword.declaration.function",
+        "storage.type.function"
       ],
       "settings": {
-        "foreground": "#16a3b6"
+        "foreground": "#40d4e7"
       }
     },
     {
